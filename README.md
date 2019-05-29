@@ -1,8 +1,7 @@
 # SimpleLinuxShell
 Simple Linux Shell developed in C with most basic functionalities
 
-gcc LawShell.c -o LawShell
-./LawShell
+gcc LawShell.c -o LawShell && ./LawShell
 
 enter program name to execute
 
